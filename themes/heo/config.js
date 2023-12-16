@@ -15,7 +15,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'TANGLY1024.COM',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'NotionNext4.0 一个神奇的博客',
-  HEO_HERO_TITLE_LINK: 'https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E8%9C%98%E8%9B%9B%E4%BE%A0&step_word=&hs=0&pn=7&spn=0&di=7264239678495129601&pi=0&rn=1&tn=baiduimagedetail&is=2801641813%2C2051999680&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3465458248%2C3938995499&os=2801641813%2C2051999680&simid=3465458248%2C3938995499&adpicid=0&lpn=0&ln=1709&fr=&fmq=1702719219993_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fsafe-img.xhscdn.com%2Fbw%2F3115486a-cca8-4b6c-86bc-a256133b6fd0%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg%26refer%3Dhttp%3A%2F%2Fsafe-img.xhscdn.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Dauto%3Fsec%3D1705311235%26t%3D3555ce401b60027f4aec2a6aa98e4f4d&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bxtw5i5g2fi7_z%26e3Bv54AzdH3F1tfv5ej6yAzdH3Ftpj4AzdH3Fm88m9l8maaaaaaaaa8adunmm&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&dyTabStr=MCwzLDEsMiw2LDQsNSw4LDcsOQ%3D%3D&lid=10311648143302948934',
+  HEO_HERO_TITLE_LINK: 'https://yiyi1234.com/article/d33d2277-442e-4275-998c-c515bc9762d1',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
