@@ -25,7 +25,7 @@ const CONFIG = {
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
-  //   HERO_RECOMMEND_COVER: 'https://img1.baidu.com/it/u=2245430107,1089771243&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500', // 英雄区右侧图片
+  //   HERO_RECOMMEND_COVER: 'https://image.baidu.com/search/down?tn=download&ipn=dwnl&word=download&ie=utf8&fr=result&url=https%3A%2F%2Flmg.jj20.com%2Fup%2Fallimg%2F4k%2Fs%2F02%2F2109251P41T2J-0-lp.jpg&thumburl=https%3A%2F%2Fimg0.baidu.com%2Fit%2Fu%3D809667800%2C1004299421%26fm%3D253%26fmt%3Dauto%26app%3D138%26f%3DJPEG%3Fw%3D889%26h%3D500', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
